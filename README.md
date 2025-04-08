@@ -1,70 +1,56 @@
-# product-analytics-simulator
-E-commerce behavior analytics project using simulated SQL + Python data
-# Product Analytics Simulator
+# E-Commerce Product & User Behavioral Analytics
 
-A practical, end-to-end project that simulates a realistic product analytics environment for an e-commerce platform.  
-Built to reflect how modern companies structure data, ask business questions, and extract value — with a touch of French analytical flair, of course.
-
----
+A complete analytics project simulating how a business or data analyst might explore and segment user behavior on an e-commerce platform.
 
 ## Project Overview
 
-This project aims to showcase a business-focused data workflow by:
-- Simulating a transactional dataset (users, products, events)
-- Exploring user behavior across the purchase funnel
-- Designing KPIs and insights relevant to product managers and business analysts
-- Bridging the gap between raw data and decision-making
+This notebook walks through a full data analysis pipeline built in Python, using a simulated dataset of users, products, and event logs. It mirrors the kind of workflow commonly used in product and business analytics teams: from data ingestion to segmentation, visualization, and insight storytelling.
+
+The goal? To build a reusable, structured, and scalable approach to data-driven product intelligence.
+
+## Key Learnings & Takeaways
+
+- Understanding engagement behavior is essential: one of the user segments interacts a lot... but never buys. Not ideal for your CAC.
+- Product interest and purchase activity don’t always correlate. Sometimes, what people look at most isn’t what they end up buying.
+- Segmenting users helped reveal category preferences by cluster. This is exactly the kind of finding that supports personalization strategy.
+- A pipeline like this is generalizable: any company with users and events can plug in their data and adapt the same logic.
+
+## Tools & Tech
+
+- Python (pandas, seaborn, matplotlib, scikit-learn)
+- Google Colab / Jupyter
+- K-Means clustering
+- GitHub for versioning
+
+## Folder Structure
+
+```
+📦 ecommerce-product-analytics
+├── data/
+│   ├── users.csv
+│   ├── products.csv
+│   └── events.csv
+├── product_analysis.ipynb
+└── README.md
+```
+
+## Code Commentary
+
+This notebook is commented with both technical explanations and business context: the “how” and the “why” are always paired. The analysis is not just functional, it’s purposeful — and aims to bring clarity for anyone reading through the flow, even without a technical background.
+
+I built this project as a demonstration of applied analytics thinking. It reflects how I would approach internal product usage data, user segmentation, or funnel optimization in a real role.
+
+## What's Next?
+
+This type of analysis is a foundation. It could easily be extended to include:
+
+- Predictive modeling: churn, conversion, lifetime value
+- Recommendation systems
+- Dashboarding for stakeholders (Tableau, Power BI, or Streamlit)
+- Experimentation design and test impact tracking
 
 ---
 
-## Dataset Structure
+This project reflects my way of working: focused, insight-driven, and structured — with enough curiosity to dig deeper, and enough pragmatism to ship.
 
-The dataset consists of 3 generated `.csv` files:
 
-| File         | Description                                      |
-|--------------|--------------------------------------------------|
-| `users.csv`   | User info including ID, signup date, location   |
-| `products.csv`| Product catalog with category and price         |
-| `events.csv`  | User-product interactions: view, cart, purchase |
-
-Generated using Python (`pandas`, `numpy`) — see `simulate_data.py` for reproducibility.
-
----
-
-## Stack & Tools
-
-- **SQL** – for querying and aggregating data
-- **Python** – for simulation and analysis
-- **Jupyter / Colab** – for exploration and storytelling
-- **Matplotlib / Seaborn** – for visualization
-- **GitHub** – for structuring the project (like any good analyst should)
-
----
-
-## Roadmap
-
-- [x] Simulate realistic e-commerce data
-- [ ] Write SQL queries for product funnels, conversion rates, and retention
-- [ ] Explore user behavior by location and category
-- [ ] Visualize insights in clean, business-ready formats
-- [ ] Bonus: deploy a simple dashboard (Streamlit or Looker Studio)
-
----
-
-## About the Author
-
-**Sacha Brouck**  
-Incoming MSBA student @ University of Washington – Foster School of Business  
-Former startup founder, real estate investment analyst, and data enthusiast  
-Exploring the intersection of **analytics, business impact, and purpose**
-
-> "As we say in France — rigueur et clarté avant tout."
-
-[LinkedIn](https://www.linkedin.com/in/sacha-brouck)
-
----
-
-## License
-
-This project is open for learning and collaboration purposes.
-Feel free to fork it, use it, or improve it.
