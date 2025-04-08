@@ -1,0 +1,1001 @@
+user_id,signup_date,location
+1,2023-04-13,San Francisco
+2,2023-12-15,San Francisco
+3,2023-09-28,Seattle
+4,2023-04-17,New York
+5,2023-03-13,New York
+6,2023-07-08,Chicago
+7,2023-01-21,New York
+8,2023-04-13,Austin
+9,2023-05-02,New York
+10,2023-08-03,Chicago
+11,2023-11-27,New York
+12,2023-03-29,Austin
+13,2023-04-10,Seattle
+14,2023-12-26,Chicago
+15,2023-06-01,Seattle
+16,2023-05-11,Seattle
+17,2023-05-30,Seattle
+18,2023-11-05,San Francisco
+19,2023-09-15,San Francisco
+20,2023-12-10,Seattle
+21,2023-10-21,Chicago
+22,2023-07-11,Austin
+23,2023-10-04,Austin
+24,2023-06-10,New York
+25,2023-11-10,Chicago
+26,2023-01-22,San Francisco
+27,2023-09-10,Seattle
+28,2023-08-24,New York
+29,2023-12-11,Austin
+30,2023-02-18,San Francisco
+31,2023-02-28,San Francisco
+32,2023-06-19,Seattle
+33,2023-07-07,Austin
+34,2023-09-28,Chicago
+35,2023-07-09,San Francisco
+36,2023-06-24,Seattle
+37,2023-02-20,Chicago
+38,2023-12-30,Austin
+39,2023-02-24,San Francisco
+40,2023-09-01,Chicago
+41,2023-11-16,Chicago
+42,2023-05-11,Chicago
+43,2023-11-03,San Francisco
+44,2023-05-15,San Francisco
+45,2023-01-21,New York
+46,2023-11-25,Austin
+47,2023-06-16,Seattle
+48,2023-10-01,Chicago
+49,2023-03-30,New York
+50,2023-11-12,Seattle
+51,2023-01-14,New York
+52,2023-08-30,San Francisco
+53,2023-09-22,Chicago
+54,2023-12-12,Seattle
+55,2023-02-22,Seattle
+56,2023-12-06,Seattle
+57,2023-04-02,Seattle
+58,2023-09-21,Seattle
+59,2023-02-04,New York
+60,2023-07-25,Chicago
+61,2023-03-22,San Francisco
+62,2023-02-19,San Francisco
+63,2023-12-26,San Francisco
+64,2023-01-02,San Francisco
+65,2023-02-23,New York
+66,2023-04-16,Austin
+67,2023-09-17,Chicago
+68,2023-11-06,Seattle
+69,2023-07-10,Austin
+70,2023-08-06,San Francisco
+71,2023-02-13,Austin
+72,2023-06-11,Chicago
+73,2023-07-21,Seattle
+74,2023-09-27,Seattle
+75,2023-12-17,Chicago
+76,2023-10-31,Chicago
+77,2023-09-28,San Francisco
+78,2023-08-03,Seattle
+79,2023-09-09,Austin
+80,2023-07-09,New York
+81,2023-10-23,New York
+82,2023-08-01,Chicago
+83,2023-07-27,San Francisco
+84,2023-08-25,New York
+85,2023-12-04,Seattle
+86,2023-02-22,Chicago
+87,2023-10-07,Austin
+88,2023-08-05,Chicago
+89,2023-09-09,Austin
+90,2023-07-07,Chicago
+91,2023-02-10,Chicago
+92,2023-06-06,Chicago
+93,2023-01-15,Austin
+94,2023-10-28,Austin
+95,2023-03-06,Chicago
+96,2023-12-11,New York
+97,2023-11-23,San Francisco
+98,2023-01-09,San Francisco
+99,2023-12-10,San Francisco
+100,2023-05-09,Austin
+101,2023-05-16,Austin
+102,2023-03-04,New York
+103,2023-05-19,San Francisco
+104,2023-03-22,San Francisco
+105,2023-06-12,Chicago
+106,2023-10-16,Austin
+107,2023-09-18,San Francisco
+108,2023-08-19,New York
+109,2023-02-10,New York
+110,2023-01-28,San Francisco
+111,2023-05-15,Austin
+112,2023-07-20,New York
+113,2023-11-24,Chicago
+114,2023-09-25,New York
+115,2023-02-02,Seattle
+116,2023-02-17,Seattle
+117,2023-03-03,Austin
+118,2023-08-04,San Francisco
+119,2023-10-20,Austin
+120,2023-04-09,Austin
+121,2023-06-21,Austin
+122,2023-12-26,Austin
+123,2023-08-02,Chicago
+124,2023-02-04,Chicago
+125,2023-08-15,New York
+126,2023-04-11,Seattle
+127,2023-05-11,Austin
+128,2023-09-14,New York
+129,2023-01-05,Seattle
+130,2023-08-06,San Francisco
+131,2023-09-12,Chicago
+132,2023-12-25,Seattle
+133,2023-10-10,San Francisco
+134,2023-07-26,Seattle
+135,2023-01-15,Chicago
+136,2023-12-12,Chicago
+137,2023-02-11,New York
+138,2023-06-28,Austin
+139,2023-03-04,Seattle
+140,2023-12-18,Seattle
+141,2023-08-19,San Francisco
+142,2023-08-29,Chicago
+143,2023-02-21,Seattle
+144,2023-04-06,Chicago
+145,2023-08-10,Seattle
+146,2023-08-19,New York
+147,2023-08-25,Austin
+148,2023-05-23,Seattle
+149,2023-06-20,Chicago
+150,2023-01-29,New York
+151,2023-02-05,Seattle
+152,2023-01-13,San Francisco
+153,2023-06-09,Austin
+154,2023-11-23,Seattle
+155,2023-07-06,New York
+156,2023-08-31,San Francisco
+157,2023-03-27,New York
+158,2023-10-11,New York
+159,2023-03-07,San Francisco
+160,2023-06-19,New York
+161,2023-02-14,San Francisco
+162,2023-03-03,Seattle
+163,2023-05-14,San Francisco
+164,2023-10-11,San Francisco
+165,2023-01-28,Austin
+166,2023-04-18,San Francisco
+167,2023-02-13,San Francisco
+168,2023-12-06,Seattle
+169,2023-10-13,Austin
+170,2023-11-27,Chicago
+171,2023-05-08,Seattle
+172,2023-12-14,Seattle
+173,2023-08-19,Chicago
+174,2023-07-09,San Francisco
+175,2023-08-13,New York
+176,2023-10-10,Austin
+177,2023-05-01,New York
+178,2023-04-26,Chicago
+179,2023-08-21,Seattle
+180,2023-09-16,Seattle
+181,2023-12-25,Austin
+182,2023-07-17,Seattle
+183,2023-05-17,Seattle
+184,2023-11-14,Austin
+185,2023-06-14,Austin
+186,2023-08-13,Chicago
+187,2023-11-03,Seattle
+188,2023-08-22,Seattle
+189,2023-06-21,Chicago
+190,2023-06-01,San Francisco
+191,2023-11-11,San Francisco
+192,2023-06-09,San Francisco
+193,2023-04-06,Chicago
+194,2023-08-21,Seattle
+195,2023-06-29,Chicago
+196,2023-04-23,Chicago
+197,2023-11-14,San Francisco
+198,2023-02-21,New York
+199,2023-09-25,Seattle
+200,2023-10-22,San Francisco
+201,2023-04-23,New York
+202,2023-04-11,New York
+203,2023-04-23,Austin
+204,2023-03-22,Seattle
+205,2023-07-06,New York
+206,2023-04-23,San Francisco
+207,2023-01-02,Austin
+208,2023-05-10,Seattle
+209,2023-08-08,Chicago
+210,2023-02-23,San Francisco
+211,2023-12-09,New York
+212,2023-08-12,New York
+213,2023-08-13,San Francisco
+214,2023-05-06,New York
+215,2023-05-10,Austin
+216,2023-02-22,Seattle
+217,2023-06-21,Austin
+218,2023-08-06,New York
+219,2023-06-09,Chicago
+220,2023-07-17,Seattle
+221,2023-09-04,Seattle
+222,2023-11-20,San Francisco
+223,2023-07-22,San Francisco
+224,2023-07-03,Chicago
+225,2023-05-03,Seattle
+226,2023-09-12,Chicago
+227,2023-10-21,San Francisco
+228,2023-10-07,San Francisco
+229,2023-11-21,Seattle
+230,2023-04-08,Austin
+231,2023-07-17,New York
+232,2023-08-28,San Francisco
+233,2023-05-24,San Francisco
+234,2023-04-07,Austin
+235,2023-07-20,Austin
+236,2023-05-04,Chicago
+237,2023-07-06,Chicago
+238,2023-11-22,New York
+239,2023-12-15,New York
+240,2023-09-16,Seattle
+241,2023-05-28,Chicago
+242,2023-09-09,San Francisco
+243,2023-12-12,Chicago
+244,2023-05-27,San Francisco
+245,2023-05-28,Austin
+246,2023-12-18,Chicago
+247,2023-07-18,Austin
+248,2023-11-04,New York
+249,2023-05-08,New York
+250,2023-02-08,Seattle
+251,2023-12-04,Chicago
+252,2023-12-26,Austin
+253,2023-05-09,San Francisco
+254,2023-09-24,New York
+255,2023-05-31,New York
+256,2023-10-25,San Francisco
+257,2023-04-09,Austin
+258,2023-09-20,Austin
+259,2023-09-09,Chicago
+260,2023-05-24,Chicago
+261,2023-12-12,Seattle
+262,2023-04-22,New York
+263,2023-03-01,Chicago
+264,2023-01-02,Austin
+265,2023-10-31,San Francisco
+266,2023-09-11,Austin
+267,2023-05-20,New York
+268,2023-02-06,Austin
+269,2023-06-09,Seattle
+270,2023-01-09,New York
+271,2023-08-21,San Francisco
+272,2023-04-09,Seattle
+273,2023-05-27,New York
+274,2023-10-31,San Francisco
+275,2023-07-27,Seattle
+276,2023-05-11,Seattle
+277,2023-06-01,New York
+278,2023-02-23,Chicago
+279,2023-04-30,Seattle
+280,2023-06-10,Seattle
+281,2023-04-26,San Francisco
+282,2023-03-16,Austin
+283,2023-04-23,New York
+284,2023-04-14,New York
+285,2023-12-06,Chicago
+286,2023-09-11,Chicago
+287,2023-08-15,New York
+288,2023-04-22,Chicago
+289,2023-04-09,San Francisco
+290,2023-06-02,New York
+291,2023-12-15,Chicago
+292,2023-12-04,New York
+293,2023-07-13,Austin
+294,2023-11-06,Seattle
+295,2023-06-12,New York
+296,2023-07-27,Seattle
+297,2023-06-18,Chicago
+298,2023-06-10,Seattle
+299,2023-03-09,New York
+300,2023-10-16,Austin
+301,2023-10-04,Chicago
+302,2023-10-31,New York
+303,2023-05-15,Chicago
+304,2023-07-14,San Francisco
+305,2023-05-08,Seattle
+306,2023-02-02,San Francisco
+307,2023-06-25,New York
+308,2023-01-22,Austin
+309,2023-08-26,Chicago
+310,2023-06-07,Seattle
+311,2023-02-07,Chicago
+312,2023-08-18,New York
+313,2023-12-31,Chicago
+314,2023-02-20,Seattle
+315,2023-09-21,New York
+316,2023-10-10,Chicago
+317,2023-01-27,Austin
+318,2023-08-14,New York
+319,2023-10-04,New York
+320,2023-10-13,Austin
+321,2023-04-07,San Francisco
+322,2023-10-11,Seattle
+323,2023-11-13,San Francisco
+324,2023-10-31,Chicago
+325,2023-05-27,Austin
+326,2023-01-04,San Francisco
+327,2023-02-04,New York
+328,2023-07-11,Chicago
+329,2023-02-18,Chicago
+330,2023-01-17,San Francisco
+331,2023-06-21,San Francisco
+332,2023-08-08,Austin
+333,2023-06-07,Seattle
+334,2023-02-15,San Francisco
+335,2023-01-06,San Francisco
+336,2023-04-09,New York
+337,2023-08-21,Chicago
+338,2023-02-06,Seattle
+339,2023-10-07,New York
+340,2023-12-15,Austin
+341,2023-10-29,Austin
+342,2023-06-30,San Francisco
+343,2023-04-05,San Francisco
+344,2023-04-09,Austin
+345,2023-07-07,San Francisco
+346,2023-04-26,Seattle
+347,2023-07-10,San Francisco
+348,2023-09-10,Chicago
+349,2023-06-10,San Francisco
+350,2023-09-13,New York
+351,2023-11-19,Seattle
+352,2023-05-08,New York
+353,2023-01-18,New York
+354,2023-10-08,Chicago
+355,2023-08-11,Seattle
+356,2023-02-23,Seattle
+357,2023-02-27,Seattle
+358,2023-11-19,Seattle
+359,2023-12-26,Seattle
+360,2023-06-23,Chicago
+361,2023-10-07,San Francisco
+362,2023-04-24,New York
+363,2023-10-15,Seattle
+364,2023-12-08,San Francisco
+365,2023-05-31,San Francisco
+366,2023-05-07,New York
+367,2023-06-04,Chicago
+368,2023-09-30,Austin
+369,2023-04-14,Austin
+370,2023-10-26,San Francisco
+371,2023-09-03,New York
+372,2023-06-25,Austin
+373,2023-02-08,San Francisco
+374,2023-06-19,Chicago
+375,2023-09-04,Austin
+376,2023-01-26,San Francisco
+377,2023-12-21,San Francisco
+378,2023-11-02,Seattle
+379,2023-01-13,Chicago
+380,2023-11-12,Seattle
+381,2023-11-09,New York
+382,2023-02-05,Seattle
+383,2023-06-22,Seattle
+384,2023-01-20,Austin
+385,2023-11-17,San Francisco
+386,2023-09-21,Chicago
+387,2023-05-22,Seattle
+388,2023-05-23,Chicago
+389,2023-04-02,Seattle
+390,2023-12-20,New York
+391,2023-11-18,Seattle
+392,2023-10-15,Austin
+393,2023-08-03,San Francisco
+394,2023-12-08,New York
+395,2023-02-20,Seattle
+396,2023-06-02,Chicago
+397,2023-07-05,New York
+398,2023-03-04,New York
+399,2023-07-09,Seattle
+400,2023-05-05,New York
+401,2023-05-30,Chicago
+402,2023-11-10,New York
+403,2023-02-27,Chicago
+404,2023-12-08,Seattle
+405,2023-11-01,San Francisco
+406,2023-06-29,New York
+407,2023-06-19,San Francisco
+408,2023-11-22,Chicago
+409,2023-09-28,New York
+410,2023-02-23,Austin
+411,2023-04-11,San Francisco
+412,2023-09-21,New York
+413,2023-02-22,San Francisco
+414,2023-03-01,New York
+415,2023-04-18,Seattle
+416,2023-01-05,San Francisco
+417,2023-04-13,Austin
+418,2023-07-15,Austin
+419,2023-09-19,Chicago
+420,2023-12-31,New York
+421,2023-12-16,San Francisco
+422,2023-02-16,Chicago
+423,2023-12-21,San Francisco
+424,2023-11-07,New York
+425,2023-11-04,Austin
+426,2023-05-24,Seattle
+427,2023-09-26,Austin
+428,2023-05-04,Chicago
+429,2023-04-16,Seattle
+430,2023-06-07,Chicago
+431,2023-05-27,New York
+432,2023-05-25,Seattle
+433,2023-04-30,Chicago
+434,2023-11-15,New York
+435,2023-10-02,Austin
+436,2023-04-02,New York
+437,2023-02-27,San Francisco
+438,2023-12-12,New York
+439,2023-08-17,New York
+440,2023-04-27,San Francisco
+441,2023-11-14,Chicago
+442,2023-10-06,Chicago
+443,2023-05-07,New York
+444,2023-05-09,San Francisco
+445,2023-02-27,San Francisco
+446,2023-05-02,Austin
+447,2023-01-01,Chicago
+448,2023-08-27,Seattle
+449,2023-10-17,Chicago
+450,2023-04-06,Chicago
+451,2023-05-06,Austin
+452,2023-04-28,Seattle
+453,2023-02-17,Austin
+454,2023-03-30,Seattle
+455,2023-08-25,New York
+456,2023-09-29,Seattle
+457,2023-07-08,Austin
+458,2023-07-11,Chicago
+459,2023-03-10,Seattle
+460,2023-10-05,Seattle
+461,2023-12-15,San Francisco
+462,2023-09-04,Chicago
+463,2023-03-17,New York
+464,2023-06-03,Austin
+465,2023-05-24,New York
+466,2023-03-27,Chicago
+467,2023-07-04,Seattle
+468,2023-10-12,Seattle
+469,2023-08-08,Chicago
+470,2023-03-10,Seattle
+471,2023-02-16,Seattle
+472,2023-04-04,Seattle
+473,2023-08-26,Austin
+474,2023-07-23,Austin
+475,2023-08-06,San Francisco
+476,2023-12-07,New York
+477,2023-02-08,Chicago
+478,2023-04-10,Chicago
+479,2023-10-16,Chicago
+480,2023-09-11,San Francisco
+481,2023-08-10,Austin
+482,2023-12-23,San Francisco
+483,2023-01-23,Chicago
+484,2023-09-07,New York
+485,2023-01-10,Seattle
+486,2023-09-03,Austin
+487,2023-11-21,Austin
+488,2023-04-10,San Francisco
+489,2023-10-17,Austin
+490,2023-06-29,Chicago
+491,2023-08-11,Chicago
+492,2023-09-07,San Francisco
+493,2023-05-27,Chicago
+494,2023-04-06,New York
+495,2023-09-14,San Francisco
+496,2023-11-21,New York
+497,2023-01-04,Seattle
+498,2023-01-16,New York
+499,2023-10-07,Seattle
+500,2023-12-02,Seattle
+501,2023-09-04,New York
+502,2023-09-15,San Francisco
+503,2023-06-09,Chicago
+504,2023-12-06,Chicago
+505,2023-06-01,Seattle
+506,2023-06-27,Seattle
+507,2023-06-12,San Francisco
+508,2023-02-02,Austin
+509,2023-06-28,New York
+510,2023-04-11,Seattle
+511,2023-09-25,Chicago
+512,2023-11-19,San Francisco
+513,2023-03-06,New York
+514,2023-06-17,San Francisco
+515,2023-11-26,New York
+516,2023-02-12,New York
+517,2023-02-13,Seattle
+518,2023-10-12,San Francisco
+519,2023-01-12,San Francisco
+520,2023-04-05,Chicago
+521,2023-10-29,Chicago
+522,2023-09-10,Seattle
+523,2023-08-30,Seattle
+524,2023-02-04,Austin
+525,2023-08-03,Chicago
+526,2023-12-03,New York
+527,2023-03-31,San Francisco
+528,2023-09-21,Seattle
+529,2023-04-03,San Francisco
+530,2023-03-31,San Francisco
+531,2023-04-25,Austin
+532,2023-04-15,Chicago
+533,2023-07-15,Seattle
+534,2023-11-10,San Francisco
+535,2023-04-24,Seattle
+536,2023-03-16,New York
+537,2023-08-05,Austin
+538,2023-10-04,New York
+539,2023-09-06,Seattle
+540,2023-06-13,Seattle
+541,2023-12-23,Chicago
+542,2023-07-11,San Francisco
+543,2023-08-15,San Francisco
+544,2023-06-26,New York
+545,2023-04-09,Austin
+546,2023-02-05,San Francisco
+547,2023-04-06,Chicago
+548,2023-06-01,New York
+549,2023-05-31,New York
+550,2023-07-09,Chicago
+551,2023-08-12,Austin
+552,2023-02-06,Chicago
+553,2023-09-25,Austin
+554,2023-07-02,Chicago
+555,2023-01-13,Chicago
+556,2023-10-06,Seattle
+557,2023-08-05,New York
+558,2023-12-21,Chicago
+559,2023-12-27,Chicago
+560,2023-10-13,San Francisco
+561,2023-09-30,New York
+562,2023-03-03,San Francisco
+563,2023-03-25,New York
+564,2023-08-05,San Francisco
+565,2023-12-08,Chicago
+566,2023-07-06,Chicago
+567,2023-01-19,Seattle
+568,2023-06-26,San Francisco
+569,2023-04-10,Austin
+570,2023-08-21,Seattle
+571,2023-03-17,San Francisco
+572,2023-09-22,San Francisco
+573,2023-10-11,Seattle
+574,2023-07-25,Chicago
+575,2023-08-11,San Francisco
+576,2023-02-21,Chicago
+577,2023-12-05,Seattle
+578,2023-05-24,Chicago
+579,2023-03-10,New York
+580,2023-04-09,Austin
+581,2023-01-25,San Francisco
+582,2023-02-22,Austin
+583,2023-05-31,Chicago
+584,2023-05-24,San Francisco
+585,2023-02-26,Chicago
+586,2023-02-08,New York
+587,2023-04-19,Seattle
+588,2023-06-30,San Francisco
+589,2023-02-11,New York
+590,2023-07-05,New York
+591,2023-08-11,San Francisco
+592,2023-05-02,Chicago
+593,2023-05-13,New York
+594,2023-06-12,Austin
+595,2023-08-03,New York
+596,2023-08-09,Chicago
+597,2023-08-23,Chicago
+598,2023-11-27,Austin
+599,2023-05-26,New York
+600,2023-08-27,Chicago
+601,2023-03-17,San Francisco
+602,2023-01-09,Seattle
+603,2023-03-15,Seattle
+604,2023-09-10,Seattle
+605,2023-08-18,New York
+606,2023-01-07,Austin
+607,2023-06-23,Chicago
+608,2023-05-21,San Francisco
+609,2023-06-17,San Francisco
+610,2023-06-19,New York
+611,2023-10-10,Seattle
+612,2023-05-02,New York
+613,2023-07-13,Austin
+614,2023-01-05,Austin
+615,2023-01-29,Chicago
+616,2023-06-14,Chicago
+617,2023-12-05,Austin
+618,2023-05-16,Austin
+619,2023-12-31,Austin
+620,2023-11-17,New York
+621,2023-12-08,Austin
+622,2023-05-25,San Francisco
+623,2023-11-23,Seattle
+624,2023-08-05,Austin
+625,2023-10-28,Seattle
+626,2023-05-12,New York
+627,2023-10-19,Seattle
+628,2023-03-11,New York
+629,2023-09-09,San Francisco
+630,2023-10-02,New York
+631,2023-12-30,New York
+632,2023-07-01,Chicago
+633,2023-06-16,Austin
+634,2023-04-01,Austin
+635,2023-07-21,San Francisco
+636,2023-12-12,San Francisco
+637,2023-01-19,Austin
+638,2023-02-08,Chicago
+639,2023-05-06,Austin
+640,2023-06-22,Chicago
+641,2023-05-21,San Francisco
+642,2023-08-30,Seattle
+643,2023-08-08,San Francisco
+644,2023-05-06,San Francisco
+645,2023-02-27,New York
+646,2023-05-28,New York
+647,2023-11-13,New York
+648,2023-12-27,New York
+649,2023-01-01,Chicago
+650,2023-12-14,Austin
+651,2023-07-09,Seattle
+652,2023-07-10,San Francisco
+653,2023-11-08,Chicago
+654,2023-04-27,Seattle
+655,2023-05-14,Chicago
+656,2023-02-27,Chicago
+657,2023-02-13,San Francisco
+658,2023-06-22,Austin
+659,2023-06-09,New York
+660,2023-06-22,Austin
+661,2023-11-13,San Francisco
+662,2023-10-30,San Francisco
+663,2023-05-29,San Francisco
+664,2023-03-21,Seattle
+665,2023-08-01,Austin
+666,2023-07-22,Austin
+667,2023-09-09,Chicago
+668,2023-08-17,Chicago
+669,2023-06-13,Chicago
+670,2023-08-15,San Francisco
+671,2023-05-27,Austin
+672,2023-01-20,San Francisco
+673,2023-02-16,Seattle
+674,2023-08-21,Chicago
+675,2023-11-01,San Francisco
+676,2023-01-14,San Francisco
+677,2023-05-23,Seattle
+678,2023-01-01,New York
+679,2023-02-23,Austin
+680,2023-09-16,New York
+681,2023-05-24,Chicago
+682,2023-01-12,San Francisco
+683,2023-11-26,Seattle
+684,2023-08-12,Seattle
+685,2023-09-29,Austin
+686,2023-12-24,New York
+687,2023-06-05,Austin
+688,2023-01-08,San Francisco
+689,2023-05-02,Austin
+690,2023-12-14,Seattle
+691,2023-06-13,Seattle
+692,2023-03-31,Chicago
+693,2023-05-16,Chicago
+694,2023-07-05,San Francisco
+695,2023-11-12,New York
+696,2023-06-27,Austin
+697,2023-01-28,San Francisco
+698,2023-08-08,Chicago
+699,2023-12-23,Austin
+700,2023-02-10,Chicago
+701,2023-08-16,Austin
+702,2023-07-11,New York
+703,2023-05-25,San Francisco
+704,2023-07-20,Austin
+705,2023-07-31,Seattle
+706,2023-08-08,Seattle
+707,2023-08-28,Austin
+708,2023-02-15,Austin
+709,2023-02-04,Austin
+710,2023-09-10,Seattle
+711,2023-03-23,Seattle
+712,2023-09-13,Austin
+713,2023-07-16,Chicago
+714,2023-10-30,Chicago
+715,2023-01-10,New York
+716,2023-11-08,San Francisco
+717,2023-10-13,Chicago
+718,2023-08-30,Seattle
+719,2023-09-08,Chicago
+720,2023-12-31,New York
+721,2023-01-05,New York
+722,2023-04-29,San Francisco
+723,2023-10-16,Chicago
+724,2023-03-06,Seattle
+725,2023-05-26,Seattle
+726,2023-08-12,Austin
+727,2023-08-27,Seattle
+728,2023-06-26,San Francisco
+729,2023-09-24,San Francisco
+730,2023-12-07,Seattle
+731,2023-10-09,Seattle
+732,2023-03-04,Austin
+733,2023-08-05,Seattle
+734,2023-12-08,Austin
+735,2023-11-11,Austin
+736,2023-10-10,Seattle
+737,2023-06-26,New York
+738,2023-04-08,New York
+739,2023-04-15,Austin
+740,2023-04-09,Seattle
+741,2023-11-07,New York
+742,2023-01-06,Seattle
+743,2023-07-16,Seattle
+744,2023-12-17,Seattle
+745,2023-05-13,Chicago
+746,2023-12-24,Seattle
+747,2023-09-16,Chicago
+748,2023-01-23,Austin
+749,2023-02-22,New York
+750,2023-06-14,New York
+751,2023-07-21,New York
+752,2023-03-24,New York
+753,2023-05-25,New York
+754,2023-03-26,New York
+755,2023-03-19,New York
+756,2023-01-01,Austin
+757,2023-02-20,Seattle
+758,2023-06-22,San Francisco
+759,2023-07-24,Chicago
+760,2023-09-17,San Francisco
+761,2023-10-15,San Francisco
+762,2023-02-03,Seattle
+763,2023-12-14,Seattle
+764,2023-04-05,Seattle
+765,2023-03-13,New York
+766,2023-02-08,Austin
+767,2023-06-03,New York
+768,2023-09-07,Austin
+769,2023-06-11,Austin
+770,2023-04-28,San Francisco
+771,2023-09-16,San Francisco
+772,2023-11-02,Austin
+773,2023-09-25,Austin
+774,2023-02-23,New York
+775,2023-08-24,New York
+776,2023-08-10,San Francisco
+777,2023-09-08,Seattle
+778,2023-11-09,Austin
+779,2023-04-22,New York
+780,2023-09-12,San Francisco
+781,2023-10-30,New York
+782,2023-07-26,Austin
+783,2023-08-17,Austin
+784,2023-12-07,Chicago
+785,2023-03-07,Seattle
+786,2023-03-16,Chicago
+787,2023-04-13,San Francisco
+788,2023-07-11,New York
+789,2023-09-09,San Francisco
+790,2023-08-14,Austin
+791,2023-10-21,Chicago
+792,2023-11-02,Chicago
+793,2023-04-08,Chicago
+794,2023-12-04,San Francisco
+795,2023-10-13,Austin
+796,2023-12-01,New York
+797,2023-12-13,New York
+798,2023-11-04,San Francisco
+799,2023-09-06,Chicago
+800,2023-06-15,Seattle
+801,2023-12-01,San Francisco
+802,2023-01-30,San Francisco
+803,2023-09-04,Austin
+804,2023-04-16,New York
+805,2023-02-20,San Francisco
+806,2023-03-22,San Francisco
+807,2023-05-13,Chicago
+808,2023-10-12,Chicago
+809,2023-05-18,Seattle
+810,2023-07-03,Austin
+811,2023-11-26,Seattle
+812,2023-09-30,Chicago
+813,2023-12-06,New York
+814,2023-03-10,Chicago
+815,2023-02-03,Austin
+816,2023-09-19,Chicago
+817,2023-02-22,Austin
+818,2023-07-24,Austin
+819,2023-05-06,Austin
+820,2023-08-23,Austin
+821,2023-02-12,Austin
+822,2023-08-28,New York
+823,2023-04-21,Seattle
+824,2023-09-06,San Francisco
+825,2023-05-31,Seattle
+826,2023-07-02,Austin
+827,2023-12-02,New York
+828,2023-04-05,Chicago
+829,2023-01-08,New York
+830,2023-12-26,Austin
+831,2023-07-03,New York
+832,2023-10-08,New York
+833,2023-07-14,Austin
+834,2023-12-18,New York
+835,2023-07-14,San Francisco
+836,2023-06-04,San Francisco
+837,2023-04-03,New York
+838,2023-06-09,Chicago
+839,2023-03-02,Austin
+840,2023-05-02,San Francisco
+841,2023-02-20,Chicago
+842,2023-10-04,New York
+843,2023-01-05,Chicago
+844,2023-04-02,Seattle
+845,2023-06-19,San Francisco
+846,2023-11-13,New York
+847,2023-01-22,Austin
+848,2023-11-22,New York
+849,2023-01-01,Austin
+850,2023-05-13,New York
+851,2023-08-21,Chicago
+852,2023-01-12,Chicago
+853,2023-12-12,Chicago
+854,2023-02-15,Seattle
+855,2023-02-03,Austin
+856,2023-03-19,Chicago
+857,2023-08-06,Seattle
+858,2023-10-28,Austin
+859,2023-03-14,New York
+860,2023-10-09,Seattle
+861,2023-09-06,San Francisco
+862,2023-02-16,Seattle
+863,2023-05-01,Seattle
+864,2023-08-02,Austin
+865,2023-08-27,New York
+866,2023-02-25,San Francisco
+867,2023-12-16,Chicago
+868,2023-04-17,Chicago
+869,2023-11-15,Seattle
+870,2023-02-17,Austin
+871,2023-03-02,Austin
+872,2023-12-03,Chicago
+873,2023-01-26,San Francisco
+874,2023-10-19,New York
+875,2023-09-14,San Francisco
+876,2023-01-08,New York
+877,2023-04-23,Chicago
+878,2023-12-21,New York
+879,2023-09-10,Austin
+880,2023-06-29,Seattle
+881,2023-07-26,Seattle
+882,2023-10-30,Chicago
+883,2023-05-07,Austin
+884,2023-02-25,San Francisco
+885,2023-08-02,Austin
+886,2023-01-14,Seattle
+887,2023-01-28,Seattle
+888,2023-03-19,Austin
+889,2023-08-04,Austin
+890,2023-12-31,Seattle
+891,2023-06-03,San Francisco
+892,2023-01-14,Chicago
+893,2023-07-06,Chicago
+894,2023-11-08,Austin
+895,2023-01-07,Chicago
+896,2023-01-03,Seattle
+897,2023-04-21,Seattle
+898,2023-08-26,Austin
+899,2023-12-29,Austin
+900,2023-08-27,Austin
+901,2023-10-01,San Francisco
+902,2023-10-21,Chicago
+903,2023-08-15,Austin
+904,2023-01-15,New York
+905,2023-07-11,New York
+906,2023-04-29,Seattle
+907,2023-01-28,Chicago
+908,2023-07-21,Austin
+909,2023-02-08,New York
+910,2023-09-30,Chicago
+911,2023-08-19,Seattle
+912,2023-03-27,San Francisco
+913,2023-05-06,Chicago
+914,2023-10-27,Chicago
+915,2023-01-25,San Francisco
+916,2023-05-25,Chicago
+917,2023-01-13,Seattle
+918,2023-07-31,Seattle
+919,2023-01-25,San Francisco
+920,2023-03-09,Austin
+921,2023-03-08,New York
+922,2023-08-21,Austin
+923,2023-04-19,Chicago
+924,2023-05-26,New York
+925,2023-04-21,San Francisco
+926,2023-08-16,San Francisco
+927,2023-04-21,New York
+928,2023-02-03,Seattle
+929,2023-04-21,New York
+930,2023-09-21,Chicago
+931,2023-08-24,Seattle
+932,2023-03-24,San Francisco
+933,2023-02-11,New York
+934,2023-04-11,Austin
+935,2023-01-06,Austin
+936,2023-06-29,Chicago
+937,2023-10-09,Austin
+938,2023-11-16,New York
+939,2023-08-14,New York
+940,2023-11-11,Austin
+941,2023-12-31,New York
+942,2023-08-17,Chicago
+943,2023-10-16,Seattle
+944,2023-05-30,Chicago
+945,2023-10-04,Chicago
+946,2023-07-17,New York
+947,2023-03-11,Seattle
+948,2023-04-22,New York
+949,2023-01-04,San Francisco
+950,2023-12-16,New York
+951,2023-11-27,New York
+952,2023-11-14,New York
+953,2023-12-16,Seattle
+954,2023-04-05,New York
+955,2023-06-01,Seattle
+956,2023-11-07,Austin
+957,2023-05-17,San Francisco
+958,2023-09-04,Seattle
+959,2023-08-31,Austin
+960,2023-01-31,Seattle
+961,2023-02-09,Seattle
+962,2023-08-17,San Francisco
+963,2023-02-05,Chicago
+964,2023-08-11,Chicago
+965,2023-01-06,Seattle
+966,2023-11-18,New York
+967,2023-08-08,Austin
+968,2023-03-16,New York
+969,2023-01-04,New York
+970,2023-12-01,Seattle
+971,2023-05-14,Seattle
+972,2023-04-28,Seattle
+973,2023-04-04,Seattle
+974,2023-03-03,Chicago
+975,2023-07-13,Seattle
+976,2023-12-01,Chicago
+977,2023-07-22,Chicago
+978,2023-01-26,Seattle
+979,2023-06-22,San Francisco
+980,2023-10-27,Austin
+981,2023-05-13,New York
+982,2023-11-22,Chicago
+983,2023-04-28,Austin
+984,2023-11-20,San Francisco
+985,2023-10-02,New York
+986,2023-07-31,New York
+987,2023-08-13,Chicago
+988,2023-01-20,Seattle
+989,2023-04-23,San Francisco
+990,2023-05-20,Chicago
+991,2023-02-16,San Francisco
+992,2023-01-01,Seattle
+993,2023-03-31,Seattle
+994,2023-05-22,Chicago
+995,2023-11-16,Seattle
+996,2023-02-07,Austin
+997,2023-10-20,New York
+998,2023-05-19,Chicago
+999,2023-12-22,San Francisco
+1000,2023-11-29,Austin
